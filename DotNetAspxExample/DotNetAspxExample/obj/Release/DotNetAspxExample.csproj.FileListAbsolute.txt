@@ -1,0 +1,10 @@
+C:\Projects\DotNetAspxExample\DotNetAspxExample\bin\DotNetAspxExample.dll.config
+C:\Projects\DotNetAspxExample\DotNetAspxExample\bin\DotNetAspxExample.dll
+C:\Projects\DotNetAspxExample\DotNetAspxExample\bin\DotNetAspxExample.pdb
+C:\Projects\DotNetAspxExample\DotNetAspxExample\bin\BVSeoSdkDotNet.dll
+C:\Projects\DotNetAspxExample\DotNetAspxExample\bin\Commons.dll
+C:\Projects\DotNetAspxExample\DotNetAspxExample\bin\log4net.dll
+C:\Projects\DotNetAspxExample\DotNetAspxExample\bin\NVelocity.dll
+C:\Projects\DotNetAspxExample\DotNetAspxExample\obj\Release\DotNetAspxExample.csprojResolveAssemblyReference.cache
+C:\Projects\DotNetAspxExample\DotNetAspxExample\obj\Release\DotNetAspxExample.dll
+C:\Projects\DotNetAspxExample\DotNetAspxExample\obj\Release\DotNetAspxExample.pdb
